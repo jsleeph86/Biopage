@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Black+Ops+One&family=Creepster&family=La+Belle+Aurore&family=MedievalSharp&family=Orbitron&family=Rye&display=swap" rel="stylesheet">
+        <script src="index.js"></script>
+        <img src="https://scontent-hou1-1.xx.fbcdn.net/v/t1.6435-9/122058184_3477194132360372_7428065311530906353_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Va_hs9TMASsAX8l90Wq&_nc_ht=scontent-hou1-1.xx&oh=00_AfC_k_KU0Y5Drc1YC6BOiKuZkVJa9rqS0yxyX0fPlVo0xw&oe=663124DD">
+        <h2>Hi, my name is Jonathan</h2>
+        <h3>Fun facts about me</h3>
+    </head>
+    <body>
+        <p>
+            <ul>
+                <li>37 years old</li>
+                <li>Lives in Killeen, TX</li>
+                <li>Father of 3</li>
+                <li>Gamer</li>
+            </ul>
+            Please connect with me on <a href="http/LinkedIn.com">LinkedIn here</a>
+        </p>
+        <input "text" placeholder="Enter e-mail...">
+        <button>Join Newsletter</button>
+        <!-- 
+        Challenge 1:
+        Write the HTML for your personal website.
+        -->
+        
+    </body>
+</html>
